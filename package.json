@@ -1,0 +1,27 @@
+{
+  "name": "metro-alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "fs": "0.0.1-security",
+    "moment": "^2.20.1",
+    "node-emoji": "^1.8.1",
+    "node-notifier": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielef/metro-alert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielef/metro-alert/issues"
+  },
+  "homepage": "https://github.com/gabrielef/metro-alert#readme"
+}
